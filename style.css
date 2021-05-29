@@ -1,0 +1,27 @@
+body{
+     background-color: goldenrod;
+    /* align-content: center; */
+
+}
+
+.timer
+{
+    /* width: 50%; */
+    /* margin: auto; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 7px 10px 7px 10px;
+    /* align-items: center; */
+}
+
+h1,button{
+    background-color: violet;
+    color: teal;
+    border: solid 3px green;
+    border-radius: 15px;
+    width: 60px;
+    margin: 60px 10px 0 10px;
+    text-align: center      ;
+    /* padding-top: 60px; */
+}
